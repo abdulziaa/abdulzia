@@ -1,6 +1,6 @@
 # Hi! I'm Abdul 👋
 
-I'm studying Aerospace Engineering at Arizona State University.
+I'm a second-year Aerospace Engineering at Arizona State University.
 
 I'm the responsible engineer for ground operations and vehicle telemetry at SEDS-RD at ASU, where I support a team of electrical and aerospace engineers to develop flight computers for supersonic launch vehicles.
 
